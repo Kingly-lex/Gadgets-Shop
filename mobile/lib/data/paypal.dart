@@ -1,0 +1,4 @@
+const secretKey =
+    'EBeOaZBLPZ02DQ3LC34zyEVpIR1XHZocQA8hLbdhhRUpyOYpmNV4ucSEY5X2RwADOYB_9nkAX11xvW8S';
+const cliendID =
+    'AQCdYm-ENeJSnUQp0dJUC_DPXR6_Z6Hy4OCnMEkrFm3JMUeGClUd82_Au83mvhRlZQ4_H_nNC_LAWaG7';
